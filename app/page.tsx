@@ -301,7 +301,7 @@ export default function Home() {
               <p className="mt-4 text-body text-ink-soft">
                 SINTHANI INDUSTRY CO., LTD. is a leading manufacturer of high-quality wire products in Thailand.
                 Established in 1964 through a joint venture between Thai and Japanese partners (Kobe Steel, Mitsui
-                &amp; Co., Ltd.), we have over 40 years of experience in wire drawing and hot-dip galvanizing.
+                &amp; Co., Ltd.), we have over 60 years of experience in wire drawing and hot-dip galvanizing.
               </p>
               <p className="mt-3 text-body text-ink-soft">
                 Our state-of-the-art manufacturing facility and dedicated team ensure that every product meets the
@@ -327,7 +327,7 @@ export default function Home() {
         <section id="products" className="bg-sand py-16 md:py-24">
           <div className="mx-auto max-w-6xl px-4 sm:px-6">
             <SectionHeading
-              eyebrow="Over 50 years of quality"
+              eyebrow="Over 60 years of quality"
               title="Our Products"
               text="We offer a comprehensive range of wire products to meet diverse industrial needs"
             />
