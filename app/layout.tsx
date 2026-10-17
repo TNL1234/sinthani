@@ -13,9 +13,9 @@ const siteUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL
   ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
   : "http://localhost:3000";
 
-const title = "Sinthani Industry | Quality Steel Wire Manufacturer Since 1964";
+const title = "SINTHANI INDUSTRY CO., LTD.";
 const description =
-  "Sinthani Industry Co., Ltd. manufactures cold-drawn, galvanized and stranded steel wire in Thailand. ISO 9001:2015 certified, made to your specification. Chat on LINE for a quote.";
+  "Leading manufacturer of quality wire products in Thailand, serving clients worldwide with excellence and reliability since 1964.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -26,8 +26,8 @@ export const metadata: Metadata = {
     description,
     type: "website",
     locale: "en_US",
-    siteName: "Sinthani Industry",
-    images: [{ url: "/media/theme.jpg", alt: "Steel wire coil by Sinthani Industry" }],
+    siteName: "SINTHANI INDUSTRY CO., LTD.",
+    images: [{ url: "/media/theme.jpg", alt: "SINTHANI INDUSTRY CO., LTD." }],
   },
   twitter: {
     card: "summary_large_image",
